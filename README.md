@@ -28,7 +28,9 @@ Les fichiers doivent être téléchargés et décompressés avant d’exécuter 
 📥 Téléchargement des données :
 
 Accéder à la page officielle des Données DVF sur data.gouv.fr
+
 Télécharger les fichiers .zip pour les années concernées
+
 Décompresser les fichiers dans un dossier de travail
 
 ____________________________________________________________________________________________________________________________________________________
@@ -40,6 +42,7 @@ ________________________________________________________________________________
 Avant d’exécuter le projet, assure-toi d’avoir installé :
 
 Python 3.x
+
 Les bibliothèques suivantes : 
 
 ```pip install pandas matplotlib seaborn```
@@ -63,6 +66,7 @@ ________________________________________________________________________________
 Une fois l’analyse effectuée, le projet génère :
 
 ✔️ Des statistiques sur l’évolution des prix de l’immobilier
+
 ✔️ Une analyse comparative entre les différents départements
 
 Projet réalisé par Chady, Grace et Sirine.
