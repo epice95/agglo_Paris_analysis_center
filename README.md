@@ -10,11 +10,17 @@ ________________________________________________________________________________
 
 # 📂 Données utilisées
 Nous nous basons sur les fichiers DVF de :
+
 ✔️ 2019 (données partielles S2)
+
 ✔️ 2020
+
 ✔️ 2021
+
 ✔️ 2022
+
 ✔️ 2023
+
 ✔️ 2024 (données partielles S1)
 
 Les fichiers doivent être téléchargés et décompressés avant d’exécuter le code.
